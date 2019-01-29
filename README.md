@@ -1,3 +1,5 @@
+[![npm version](	https://img.shields.io/npm/v/backpulse-wrapper.svg)](https://www.npmjs.com/package/backpulse-wrapper)
+
 # Backpulse API Wrapper  
 
 A JavaScript wrapper for the Backpulse API.
@@ -67,7 +69,6 @@ Default gallery
 Array of project
 * `fetchProject(id)`
 Specific project
-
 
 
 

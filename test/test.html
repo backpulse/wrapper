@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="../dist/bundle.js"></script>
+    <script>
+        const Backpulse = new window.Backpulse("hello");
+
+        Backpulse.fetchAbout((about, err) => {
+            console.log(about, err);
+        });
+
+        Backpulse.fetchGalleries((galleries, err) => {
+            console.log(galleries);
+        });
+        
+    </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "name": "backpulse-wrapper",
+  "description": "A JavaScript wrapper for the Backpulse API.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backpulse"
+  ],
+  "author": "aureleoules",
+  "license": "MIT"
+}

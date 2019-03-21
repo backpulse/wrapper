@@ -69,7 +69,10 @@ Default gallery
 Array of project
 * `fetchProject(id)`
 Specific project
-
+* `fetchArticles` 
+Array of articles
+* `fetchArticle(id)`
+Specific article
 
 
 

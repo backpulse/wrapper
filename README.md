@@ -73,6 +73,12 @@ Specific project
 Array of articles
 * `fetchArticle(id)`
 Specific article
+* `fetchVideoGroups`
+Array of video groups
+* `fetchVideoGroup(id)`
+Specific video group
+* `fetchVideo(id)`
+Specific video
 
 
 

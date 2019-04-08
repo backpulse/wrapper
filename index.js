@@ -1,2 +1,2 @@
-if(window) window.Backpulse = require('./lib');
+if(typeof variable !== 'undefined') window.Backpulse = require('./lib');
 module.exports = require('./lib');
